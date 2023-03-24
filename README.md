@@ -7,15 +7,6 @@ bFit-A Cognitive Game
 ## Project Description
 Ever played brainy mobile games? Had fun? In this project you will be building one such game. This game is a reflex-memory testing game. Bascially the user has to follow along and click the colored (green) tiles as they keep popping. There will be a scoreboard keeping track of how good you click :p
 You can get more about the project at (CRIO project)[https://www.crio.do/projects/java-android-game/] 
-## Author
- 
-dk35840@gmail.com
-<br>
- 
-## Collaborator(s)
- 
-kevinpaulose35@gmail.com, mridula@criodo.com
-<br>
  
 ## Project Language(s)
  
@@ -38,7 +29,7 @@ Java, Splash screens, Multithreading, Mobile App Development
 # **Project Metadata**
  
 ## **Project Id**
-PROJECT_ANDROID_COGNITIVE_GAME
+A_COGNITIVE_GAME
  
 ## **Slug URL**
  
@@ -77,8 +68,8 @@ The game's walkthrough is shown below:
  
 <br>
 
-[![https://www.youtube.com/watch?v=gauJ-nwoD0M](images/GamePlay.gif)](https://www.youtube.com/watch?v=gauJ-nwoD0M "bFit-A-Cognitive-Game - Click to Watch!")
- 
+[!(images/GamePlay.gif)]
+
 <br>
  
 The app can also be found at the [Amazon store](https://www.amazon.com/dp/B06VXYFNK3/ref=apps_sf_sta). If you face some issue with the Amazon store, you can download `Bfit_2.32` from [here](https://drive.google.com/file/d/0B_mUfZvrxlA5UDFqcE5xVk03S3c/view?usp=sharing) instead.
