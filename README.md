@@ -66,9 +66,6 @@ People spend hours at the gym, lifting weights, doing cardio exercises and follo
  
 The game's walkthrough is shown below:
  
-<br>
-
-[!(images/GamePlay.gif)]
 
 <br>
  
